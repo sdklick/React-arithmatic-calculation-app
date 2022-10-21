@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-arithmatic-calculation-app/static/css/main.3003e0f1.css",
+    "main.js": "/React-arithmatic-calculation-app/static/js/main.2f88b298.js",
+    "index.html": "/React-arithmatic-calculation-app/index.html",
+    "main.3003e0f1.css.map": "/React-arithmatic-calculation-app/static/css/main.3003e0f1.css.map",
+    "main.2f88b298.js.map": "/React-arithmatic-calculation-app/static/js/main.2f88b298.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3003e0f1.css",
+    "static/js/main.2f88b298.js"
+  ]
+}
