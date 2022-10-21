@@ -1,0 +1,26 @@
+body{
+  background-color: #030b17;
+}
+.Addition{
+  color: white;
+  margin: auto;
+  text-align: center;
+  margin-top: 5px;
+}
+.btn{
+  margin-top: 20px;
+  border-color: greenyellow;
+  border-radius: 20px;
+}
+.btn:hover{
+  background-color: orange;
+}
+.in{
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgb(0, 191, 255);
+}
+.in:hover{
+  border-style: solid;
+  border-color: rgb(0, 191, 155);
+}
